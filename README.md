@@ -12,3 +12,5 @@ Refazendo o tutorial.
 :white_check_mark: # Capitulo 5 - Navigating Between Pages
 
 :white_check_mark: # Capitulo 6 - Setting Up Your Database
+
+:white_check_mark: # Capitulo 7 - Fetching Data
